@@ -13,7 +13,3 @@
 <a href="https://instagram.com/marathe.atharva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marathe.atharva" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/maratheatharva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maratheatharva" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvamarathe&show_icons=true&locale=en&layout=compact" alt="atharvamarathe" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atharvamarathe&show_icons=true&locale=en" alt="atharvamarathe" /></p>
