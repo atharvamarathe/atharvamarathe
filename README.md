@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atharva Marathe</h1>
 <h3 align="center">A passionate Computer Enthuiast</h3>
 
-- 🌱 I’m currently learning **Operating Systems, Data Science and Spring Boot framework**
+- 🌱 I’m currently learning **Operating Systems, Deep learning and NLP**
 
 - 📫 How to reach me **atharvamarathe8@gmail.com**
 
